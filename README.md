@@ -1,2 +1,3 @@
-# .github
-RDS GitHub organization landing page
+# GitHub RDS organization
+
+RDS GitHub organization landing page: `./provie/README.md`
