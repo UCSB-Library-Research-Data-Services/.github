@@ -6,7 +6,7 @@ Our goal is to ensure that all research data is well-described, FAIR (Findable, 
 
 We offer the following services:
 - Data management planning during the preparation of your future project, including helping with proposal data management plans.
-- Data-to-day data management best practices
+- Day-to-day data management best practices
 - Data preservation for publication and beyond
 - Advise on how to make your lab more reproducible and collaborative
 
