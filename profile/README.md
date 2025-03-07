@@ -28,7 +28,7 @@ Greg, Jairo, Julien, and Renata
 - Handling and Sharing **Qualitative data**: [website](https://ucsb-library-research-data-services.github.io/qualdata-training/), [repo](https://github.com/UCSB-Library-Research-Data-Services/qualdata-training)
 - **Quarto** Showcase: [website](https://ucsb-library-research-data-services.github.io/ucldw25-quarto-showcase/), [repo](https://github.com/UCSB-Library-Research-Data-Services/ucldw25-quarto-showcase)
 
-### Selected wnit courses
+### Selected unit courses
 
 - Databases and data management: [website](https://ucsb-library-research-data-services.github.io/bren-eds213/), [repo](https://github.com/UCSB-Library-Research-Data-Services/bren-eds213)
 - Reproducible workflows: [website](https://eds-214.github.io/EDS-214-analytical-workflows/), [repo](https://github.com/eds-214)
