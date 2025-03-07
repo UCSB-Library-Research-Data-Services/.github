@@ -18,3 +18,17 @@ We use our GitHub organization to host repositories containing workshop material
 We can be reached at: rds@library.ucsb.edu
 
 Greg, Jairo, Julien, and Renata
+
+### Selected workshops 
+
+- Gentle introduction to **APIs**: [website](https://jairomelo.com/intro2APIs/chapters/interact-apis.html), [repo](https://github.com/UCSB-Library-Research-Data-Services/intro2APIs)
+- Introduction to **Databases** in R: [website](https://ucsb-library-research-data-services.github.io/intro-database-r/hands-on.html), [repo](https://github.com/UCSB-Library-Research-Data-Services/intro-database-r)
+- Project **Data Management**: [website](https://ucsb-library-research-data-services.github.io/project-data-management/), [repo](https://github.com/UCSB-Library-Research-Data-Services/project-data-management)
+- **GitHub** for everyone: [website](https://ucsb-library-research-data-services.github.io/github-4everyone/), [repo](https://github.com/UCSB-Library-Research-Data-Services/github-4everyone)
+- Handling and Sharing **Qualitative data**: [website](https://ucsb-library-research-data-services.github.io/qualdata-training/), [repo](https://github.com/UCSB-Library-Research-Data-Services/qualdata-training)
+- **Quarto** Showcase: [website](https://ucsb-library-research-data-services.github.io/ucldw25-quarto-showcase/), [repo](https://github.com/UCSB-Library-Research-Data-Services/ucldw25-quarto-showcase)
+
+### Selected wnit courses
+
+- Databases and data management: [website](https://ucsb-library-research-data-services.github.io/bren-eds213/), [repo](https://github.com/UCSB-Library-Research-Data-Services/bren-eds213)
+- Reproducible workflows: [website](https://eds-214.github.io/EDS-214-analytical-workflows/), [repo](https://github.com/eds-214)
