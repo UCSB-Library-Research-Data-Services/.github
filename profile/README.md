@@ -17,7 +17,7 @@ We use our GitHub organization to host repositories containing workshop material
 
 We can be reached at: rds@library.ucsb.edu
 
-Greg, Jairo, Julien, and Renata
+Greg, Jade, Jairo, Julien, and Renata
 
 ### Selected workshops 
 
