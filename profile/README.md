@@ -31,5 +31,6 @@ Greg, Jairo, Julien, and Renata
 
 ### Selected unit courses
 
-- Databases and data management: [website](https://ucsb-library-research-data-services.github.io/bren-eds213/), [repo](https://github.com/UCSB-Library-Research-Data-Services/bren-eds213)
-- Reproducible workflows: [website](https://eds-214.github.io/EDS-214-analytical-workflows/), [repo](https://github.com/eds-214)
+- Master in Environmental Data Science (MEDS)
+   - Databases and data management: [website](https://ucsb-library-research-data-services.github.io/bren-eds213/), [repo](https://github.com/UCSB-Library-Research-Data-Services/bren-eds213)
+   - Reproducible workflows: [website](https://eds-214.github.io/EDS-214-analytical-workflows/), [repo](https://github.com/eds-214)
