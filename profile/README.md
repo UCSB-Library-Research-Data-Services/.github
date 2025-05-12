@@ -39,7 +39,6 @@ We can be reached at: rds@library.ucsb.edu
 _Greg, Jade, Jairo, Julien, and Renata_
 
 <br>
-<br>
 
 <div style="text-align: center;">
 <img src="UC_Santa_Barbara_Wordmark_Navy_RGB.png" alt="UCSB Logo" width="50%">
