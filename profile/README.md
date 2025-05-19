@@ -14,7 +14,7 @@ We offer the following services:
 
 ### Selected workshops 
 
-- Gentle introduction to **APIs**: [website](https://jairomelo.com/intro2APIs/chapters/interact-apis.html), [repo](https://github.com/UCSB-Library-Research-Data-Services/intro2APIs)
+- Gentle introduction to **APIs**: [website](https://ucsb-library-research-data-services.github.io/intro2APIs/), [repo](https://github.com/UCSB-Library-Research-Data-Services/intro2APIs)
 - Introduction to **Databases** in R: [website](https://ucsb-library-research-data-services.github.io/intro-database-r/hands-on.html), [repo](https://github.com/UCSB-Library-Research-Data-Services/intro-database-r)
 - Project **Data Management**: [website](https://ucsb-library-research-data-services.github.io/project-data-management/), [repo](https://github.com/UCSB-Library-Research-Data-Services/project-data-management)
 - **GitHub** for everyone: [website](https://ucsb-library-research-data-services.github.io/github-4everyone/), [repo](https://github.com/UCSB-Library-Research-Data-Services/github-4everyone)
