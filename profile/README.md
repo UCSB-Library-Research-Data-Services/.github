@@ -20,7 +20,7 @@ We offer the following services:
 - **GitHub** for everyone: [website](https://ucsb-library-research-data-services.github.io/github-4everyone/), [repo](https://github.com/UCSB-Library-Research-Data-Services/github-4everyone)
 - Handling and Sharing **Qualitative data**: [website](https://ucsb-library-research-data-services.github.io/qualdata-training/), [repo](https://github.com/UCSB-Library-Research-Data-Services/qualdata-training)
 - **Quarto** Showcase: [website](https://ucsb-library-research-data-services.github.io/ucldw25-quarto-showcase/), [repo](https://github.com/UCSB-Library-Research-Data-Services/ucldw25-quarto-showcase)
-- Introduction to **Reproducible Publications with Quarto** (Lesson Part of The Carpentries Incubator/Welcoming Contributions!), [website](https://carpentries-incubator.github.io/reproducible-publications-quarto), [repo](https://github.com/carpentries-incubator/reproducible-publications-quarto)
+- Introduction to **Reproducible Publications with Quarto**: [website](https://carpentries-incubator.github.io/reproducible-publications-quarto), [repo](https://github.com/carpentries-incubator/reproducible-publications-quarto)
 - Tidying Messy Spreadsheets with **OpenRefine**: [website](https://ucsb-library-research-data-services.github.io/openrefine/), [repo](https://github.com/UCSB-Library-Research-Data-Services/openrefine)
 
 
