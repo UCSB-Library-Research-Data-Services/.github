@@ -21,6 +21,7 @@ We offer the following services:
 - Handling and Sharing **Qualitative data**: [website](https://ucsb-library-research-data-services.github.io/qualdata-training/), [repo](https://github.com/UCSB-Library-Research-Data-Services/qualdata-training)
 - **Quarto** Showcase: [website](https://ucsb-library-research-data-services.github.io/ucldw25-quarto-showcase/), [repo](https://github.com/UCSB-Library-Research-Data-Services/ucldw25-quarto-showcase)
 - Introduction to **Reproducible Publications with Quarto**: [website](https://carpentries-incubator.github.io/reproducible-publications-quarto), [repo](https://github.com/carpentries-incubator/reproducible-publications-quarto)
+- - Text Preprocessing with **R**: [website](https://ucsb-library-research-data-services.github.io/text-analysis-series/), [repo](https://github.com/UCSB-Library-Research-Data-Services/text-analysis-series)
 - Tidying Messy Spreadsheets with **OpenRefine**: [website](https://ucsb-library-research-data-services.github.io/openrefine/), [repo](https://github.com/UCSB-Library-Research-Data-Services/openrefine)
 
 
